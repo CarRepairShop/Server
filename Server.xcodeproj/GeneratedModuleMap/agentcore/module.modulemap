@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/andreyz/Documents/Work/CarServiceProject/Server/.build/checkouts/omr-agentcore-1826539389957424207/src/agentcore/include"
+    export *
+}
